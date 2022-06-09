@@ -45,6 +45,7 @@
     position: relative;
     padding: 10px 10px 10px;
     text-decoration: none;
+    list-style-type: none;
 
 }
 .header3l{
@@ -53,6 +54,7 @@
     align-content: center;
     position: relative;
     padding: 10px 10px 10px;
+    list-style-type: none;
 
 }
 .header4{
@@ -324,6 +326,7 @@
   
 }
 .t8{
+
     
 
 }
@@ -357,7 +360,20 @@ display: flex;
     
     font-family: 'Lato', sans-serif;
     height: 420px;
+
+}
+.container{
     width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.item-sec{
+    display: flex;
+    width: 67%;
+    border: solid #222;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
 }
 .t17{
 
