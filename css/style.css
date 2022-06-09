@@ -326,7 +326,9 @@
   
 }
 .t8{
-
+    font-family: 'Lato', sans-serif;
+    height: 420px;
+    width: 30%;
     
 
 }
@@ -441,4 +443,8 @@ display: flex;
     align-items: center;
     justify-content: space-between;
 
+}
+.t31{
+    width: 100%;
+    display: flex;
 }
