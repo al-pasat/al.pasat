@@ -570,19 +570,20 @@ display: flex;
     display: flex;
 }
 .a24{
+    margin-left: 39%;
     font-family: 'Lato', sans-serif;  
     display: flex;
     border: 1px solid #FF6A6A;
     width: 211px;
     height: 47PX;
     text-align: center;
-    
+    margin-top: 49px;
     align-content: center;
     justify-content: center;
     align-items: center;
     flex-direction: row;
     flex-wrap: nowrap;
-    margin: -835px auto;
+    
 }
 .a25{
     color:#F26376;
@@ -593,7 +594,7 @@ display: flex;
     width: 100%;
     height: 340px;
     display: flex;
-    margin-top: 910px;
+    margin-top: 96px;
     flex-direction: row;
     flex-wrap: nowrap;
     justify-content: space-evenly;
@@ -802,6 +803,7 @@ width: 50%;
 
 }
 .r1{
+    padding: 60px 0px;
     position: absolute;
 left: 14.38%;
 right: 73.5%;
@@ -826,50 +828,228 @@ color: #F16D7F;
     width: 100%;
     flex-direction: row;
     align-items: center;
-
+    margin-top: 64px;
+    margin-bottom: 92px;
 }
 .r3{
     display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    align-items: flex-start;
+    margin-left: 230px;
+}
+.r4{
+    left: 14.44%;
+right: 77.07%;
+top: 20.14%;
+bottom: 78.53%;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 19px;
+
+color: #222222;
 }
 .r5{
+    height: 44px;
+    width: 360px;
+    border: 1px solid #A4A4A4;
+    margin-bottom: 21px;
 
 }
 .r6{
+    height: 44px;
+    width: 360px;
+    border: 1px solid #A4A4A4;
+    margin-bottom: 32px;
 
 }
 .r7{
-
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: flex-end;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 33px;
 }
 .r8{
+    width: 17px;
+    height: 17px;
+    left: 302px;
+    top: 467px;
+    border-radius: 50%;
+    border: 1px solid #A4A4A4;
+    appearance: none;
+    text-align: center;
 
 }
 .r9{
-
+    width: 17px;
+    height: 17px;
+    left: 302px;
+    top: 467px;
+    border-radius: 50%; 
+    border: 1px solid #A4A4A4;
+    appearance: none;
+    text-align: center;
 }
 .r10{
+    height: 44px;
+    width: 360px;
+    border: 1px solid #A4A4A4;
+    margin-bottom: 21px;
 
 }
 .r11{
+    height: 44px;
+    width: 360px;
+    border: 1px solid #A4A4A4;
+    margin-bottom: 16px;
+    
+
 
 }
 .r12{
+    height: 50px;
+    width: 167px;
+    background: #F16D7F;
+    font-family: 'Lato';
+    border: 0px;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #FFFFFF;
 
 }
 .r13{
 
 }
 .r14{
-
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    /* align-items: center; */
+    margin-left: 128px;
+    margin-top: -150px;
 }
+
+
+
 .r15{
+    width: 265px;
+height: 29px;
+left: 718px;
+top: 287px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+margin-bottom: 21px;
+/* identical to box height */
+
+
+color: #000000;
 
 }
 .r16{
+    width: 652px;
+height: 58px;
+left: 718px;
+top: 338px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+margin-bottom: 21px;
+color: #000000;
 
 }
 .r17{
+    
+    list-style-type: none;
 
 }
+.r17 .r18:before {
+    content: '✓';
+    padding-right: 23px;
+}
 .r18{
+    margin-left: -40px;
+    width: 100%;
+
+left: 761.08px;
+top: 417px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+margin-bottom: 21px;
+color: #000000;
+
+}
+.r18 i{
     
+      color: #017F03;
+      padding-right: 10px
+
+}
+.r19{
+    width: 359px;
+height: 32px;
+left: 231px;
+top: 681px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 300;
+font-size: 13px;
+line-height: 16px;
+margin-bottom: 39px;
+color: #B1B1B1;
+}
+.r20{
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 19px;
+left: 14.44%;
+right: 77.07%;
+top: 36.28%;
+bottom: 62.39%;
+margin-bottom: 21px;
+
+color: #222222;
+
+}
+.r21{
+    width: 24px;
+height: 13px;
+left: 258px;
+top: 469px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 300;
+font-size: 11px;
+line-height: 13px;
+
+text-align: center;
+color: #000000;
+
 }
