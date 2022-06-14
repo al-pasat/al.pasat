@@ -803,13 +803,13 @@ width: 50%;
 
 }
 .r1{
-    padding: 60px 0px;
-    position: absolute;
+    padding-top: 60px;
+    padding-left: 222px;
 left: 14.38%;
 right: 73.5%;
 top: 25%;
 bottom: 88.56%;
-
+padding-bottom: 30px;
 font-family: 'Lato';
 font-style: normal;
 font-weight: 400;
